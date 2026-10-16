@@ -1,5 +1,5 @@
 // A tiny app, just so the PRs have something to change.
-const greeting = "hello";
+const greeting = "hi there";
 const target = "world";
 const punctuation = "!";
 
